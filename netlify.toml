@@ -3,7 +3,7 @@
 
 [[redirects]]
   from = "/"
-  to = "/index.html"
+  to = "/head_matches.html"
   status = 200
 
 [[redirects]]
