@@ -1,0 +1,17 @@
+[build]
+  publish = "/"
+
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/good"
+  to = "/good.html"
+  status = 200
+
+[[redirects]]
+  from = "/bad"
+  to = "/bad.html"
+  status = 200
