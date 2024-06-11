@@ -25,3 +25,8 @@
   from = "/triangle"
   to = "/triangle.html"
   status = 200
+
+[[redirects]]
+  from = "/gpt"
+  to = "/gpt.html"
+  status = 200
