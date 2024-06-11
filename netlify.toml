@@ -30,3 +30,13 @@
   from = "/gpt"
   to = "/gpt.html"
   status = 200
+
+[[redirects]]
+  from = "/gpt-heads"
+  to = "/gpt-heads.html"
+  status = 200
+
+[[redirects]]
+  from = "/gpt-cnn-heads"
+  to = "/gpt-cnn-heads.html"
+  status = 200
