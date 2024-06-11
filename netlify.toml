@@ -15,3 +15,13 @@
   from = "/bad"
   to = "/bad.html"
   status = 200
+
+[[redirects]]
+  from = "/cnn"
+  to = "/cnn.html"
+  status = 200
+
+[[redirects]]
+  from = "/triangle"
+  to = "/triangle.html"
+  status = 200
